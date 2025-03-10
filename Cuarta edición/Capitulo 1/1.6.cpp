@@ -10,7 +10,7 @@ int x;
 int y;
 int z;
 int res;
-cout<<"introduzca tres numeros utilizando enter entre cada numero: ";
+cout<<"introduzca tres números: ";
 cin>>x>>y>>z;
 res = x*y*z;
 cout<<"El producto es "<<res;
