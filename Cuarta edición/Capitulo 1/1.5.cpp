@@ -7,6 +7,7 @@
 - Despliegue en dos lineas el mensaje Este es un programa en C++.
 - Despliegue el mensaje Este es un programa en C++ con cada palabra separada por espacio.
 - Despliegue el mensaje Este es un programa en C++ Con cada palabra separada por tabulador.
+Sin utilizar instrucciones Using.
 */
 #include <iostream>
 int edad;
