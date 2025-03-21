@@ -1,3 +1,4 @@
+//ejercicio 1.36
 //El programa recibira un numero y devolvera este numero pero con dos espacios entre cada uno de los digitos del numero.
 #include <iostream>
 using std::cout;
